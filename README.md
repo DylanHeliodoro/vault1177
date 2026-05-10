@@ -7,7 +7,9 @@ The current setup has three accounts: Principal, Contractor and Subcontractor. E
 
 Currently, each account is allocated a Solana address, meaning that payments cannot be processed without enabling users to create their own accounts.
 
-See this video for a better understanding of how it works.
-/insert video/
+See this video for a better understanding of how it works:
+https://www.loom.com/share/2e0202d1db8a45ecb97880d7fa535617
 
 This project is currently looking for funding and a development team.
+
+Unfortunately, it was too large to upload here, but I'm working on it.
